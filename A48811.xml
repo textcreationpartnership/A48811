@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lamentable complaints of Hop the Brewer and Kilcalfe the Butcher as they met by chance in the countrey, against the restraint lately set out by the Parliament, against tapsters and cookes, which hath caused them to cracke their credit and betake them to their heeles.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48811</idno><idno type="EEBO-CITATION">27247991</idno>
+  <idno type="VID">110052</idno>
+  <idno type="EEBO-PROQUEST">2240899464</idno>
+  
+            <idno type="STC">Wing L267</idno>
+            <idno type="STC">ESTC R230583</idno>
+            <idno type="OCLC">27247991</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110052)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lamentable complaints of Hop the Brewer and Kilcalfe the Butcher as they met by chance in the countrey, against the restraint lately set out by the Parliament, against tapsters and cookes, which hath caused them to cracke their credit and betake them to their heeles.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page contains engraved illustration.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sunday legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110052:1"/>
+            <p>THE LAMENTABLE COMPLAINTS OF Hop the Brevver AND <hi>Kilcalfe</hi> the Butcher,</p>
+            <p>As they met by chance in the Coun<g ref="char:EOLhyphen"/>trey, against the restraint lately set out by the Parliament, against Tapsters and Cookes: which hath caused them to cracke their credit, and to betake them to their heeles.</p>
+            <figure>
+               <figDesc>depiction of Hop the Brewer and Kilcalfe the Butcher</figDesc>
+            </figure>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:110052:2"/>
+            <pb facs="tcp:110052:2"/>
+            <head>THE Lamentable Complaints of HOP the <hi>Brewer</hi> and KILCALFE the <hi>Butcher.</hi>
+            </head>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>HAT neighbour <hi>Kilcalfe,</hi> who would have thought to meet you here, what good newes is there stirring in London I pray can you tell?</p>
+            </sp>
+            <sp>
+               <speaker>Kilcalfe.</speaker>
+               <p>Newes Mr. <hi>Hop,</hi> there is great store such as it is, but none I am sure that is good for you or me.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>I hope Mr. <hi>Kilcalfe</hi> there is none will prove hurtfull to us.</p>
+            </sp>
+            <sp>
+               <speaker>Kilcal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</speaker>
+               <p>Yes truly neighbour there is ill newes for us.</p>
+            </sp>
+            <sp>
+               <speaker>Hop</speaker>
+               <p>I pray my good friend let me heare all the newes whatsoever it be.</p>
+            </sp>
+            <sp>
+               <speaker>Kilcal</speaker>
+               <p>Why? I will tell you, Sir, since you are so inquisitive: There is A-Bell (and one of the
+<pb facs="tcp:110052:3"/> greatest in the Town) lately falne from Alderma<g ref="char:EOLhyphen"/>ry Church, and some say it is burst all in peeces.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Well Sir what can this hurt you or me? but say this Bell be broke, it may be new cast and hanged and all will be well again.</p>
+            </sp>
+            <sp>
+               <speaker>Kilcal.</speaker>
+               <p>Very right Sir, and this may bee done with little charge, and besides there are ropes pro<g ref="char:EOLhyphen"/>vided already; there are three generous Vintners in the Parish that have promised to defray the whole charge.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>The Vintners may afford it neighbour, I hear they pay no Tunnage now the wine Patent is put downe, but pray what is this news you speake off?</p>
+            </sp>
+            <sp>
+               <speaker>Kilcal.</speaker>
+               <p>Why, have you not heard of the re<g ref="char:EOLhyphen"/>straint that was lately set forth by the Parliament, whereby all Cookes and Tapsters and many other professions are forbidden to dresse meat and draw drinke on Sundaies?</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Indeed I have heard that some such thing was intended, but I never heard that it was in blacke and white untill this houre, I hope there is no such thing, is there neighbour, are you sure?</p>
+            </sp>
+            <sp>
+               <speaker>Kilcal.</speaker>
+               <p>Sure say you! Am I sure that ever I knockt downe an oxe and cut his throat on a Sun<g ref="char:EOLhyphen"/>day morning thinke you? sfoot shall I not beleeve my owne eies?</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>I would they had beene out, so thou hadst not lived to see this chance.</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Nay now neighbour I must tell you, you are somewhat too bitter, did you not promise to
+<pb facs="tcp:110052:3"/> heare me whatsoever it were, and seeing you are so hot, farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Nay good neighbour stay, I cry thee heartily mercy, it was my passion which made me so much forget my selfe, but if this be true.</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>If me no if's, tis true as I tell you.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Why then what wil become of us?</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Truely I know not, wee must eene shut up our doores, and never so much as take leave of our Land-lords.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>As I am an honest man, you and I are both of a minde▪ you have spoke my owne thoughts, for I am sure if I tarry till quarter day, my Land-lord will provide me a house <hi>gratis,</hi> I should bee very unwilling to accept of his kindnesse, and hee to my knowledge was alwaies very forward to do such a curtesie to the worst debter he had.</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Truely Master <hi>Hop,</hi> I am not so much in<g ref="char:EOLhyphen"/>gaged to my Land-lord for his love, as you to yours; but this I am sure there is a Grasier dwel<g ref="char:EOLhyphen"/>ling in this part that hath my hand (downe upon a peece of sheepskin) not for my honesty, but for some certaine money which I owe him, and if I doe not wisely prevent him, I know not which of the Counters I am like to keepe my Christ<g ref="char:EOLhyphen"/>mas in.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>I pray Master <hi>Kilcalfe</hi> can you prevent him?</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Why, Ile shew him the bag, Ile run man, dost understand me?</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Yes very well, but I believe that hee had
+<pb facs="tcp:110052:4"/> rather you would shew him his money, and then he would understand you.</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>But by his favour he shall not understand, nor stand under any money of mine if I can keep it from him.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>But I pray tell me, how came you so much in debt? did you use to trust your customers for your meat? I believe you dealt with them for rea<g ref="char:EOLhyphen"/>dy money, did you not?</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Truely Sir I was forced to trust some times when my customers had not money to pay mee: There was one Master <hi>Rule rost</hi> a Cooke that owed me almost a hundred pounds, who no soo<g ref="char:EOLhyphen"/>ner heard of this strict command against selling of meat on Sundayes, but hee hanged a padlocke on the doore and away went Pilgarlicke. I can<g ref="char:EOLhyphen"/>not heare of my Gentleman since his depar<g ref="char:EOLhyphen"/>ture, nor doe I ever looke to receive my money now.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Now, why not now?</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Because I doe never looke to see him a<g ref="char:EOLhyphen"/>gaine, but put the case he should ever come again, hee would never bee able to pay mee without hee were suffered to sell meat on Sundayes in service time.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>Why? is it impossible for Cookes to get money on the weeke daies? I know no reason but why they may as well as on the Sundayes.</p>
+            </sp>
+            <sp>
+               <speaker>Kil.</speaker>
+               <p>Yes Sir, tis very possible; but I will tell you what I have observed in some of these Cooks. You should have a Cooke that upon Sundaies would
+<pb facs="tcp:110052:4"/> dresse twice so much meat as upon any other day, and sell it three times as deare; for Sir his doore shall stand open all the service time, and any body may be suffered to come in (the Church Wardens excepted) and he that calls for any of his rosted beefe, hath it weighed to him by the ounce, or at least one would thinke it so by the thine slices, which hee with much pollicy carveth from the spit; and so by this his pollicy hee will make you eighteene pence of that which (on any other day) hee would take eight pence for, and greete you with a welcome into the bargaine, but those daies are now past, and therefore I dispaire of ever see<g ref="char:EOLhyphen"/>ing my money.</p>
+            </sp>
+            <sp>
+               <speaker>Hop.</speaker>
+               <p>I am just in your case, did you not know <hi>Nick Froth</hi> the Tapster at the Bell? he was a man that used his customers as your Cook used his, for in service time on Sundaies you should have him draw his beere out at a penny a demy can, or a halfe pint; besides the witty knave had an excel<g ref="char:EOLhyphen"/>lent faculty in frothing, hee would get as much in drawing halfe a barrell on a Sunday as he should by a whole barrell on any other day; and for his Indian smoake he sold that as deare as Apotheca<g ref="char:EOLhyphen"/>ries doe their Ambergreece: I seeing him in this hopefull thriving way, trusted him with a hundred and fifty barrels of Beer, in hope (though) I should have had my mony before this time, but he being debarred of this priviledge, I utterly dispaire of payment, and so by this and many other such like debtors I am like to be undone, and therefore Ile not stay in England.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:110052:5"/>
+               <speaker>Kil.</speaker>
+               <p>Then let us both returne to London and gather up as many of our debts as we can, to beare our charges in our journey. If we can but once get crosse the great pond, wee may with confidence outface our Creditors, our daies of payment draw neere, therefore let us make good use of our time that we have to tarry.</p>
+               <lg>
+                  <l>Come let's away, and if the wind sit right,</l>
+                  <l>Weele be at Dover by to morrow at night.</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
